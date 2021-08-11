@@ -8,7 +8,7 @@
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/austinkuemper/"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://angel.co/u/austin-kuemper"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/angellist_button_icon_151853.png" alt=""></a>
+<a href="https://angel.co/u/austin-kuemper"><img alt="" src="https://img.shields.io/badge/AngelList-Austin%20Kuemper-crimson"></a>
 <a href="https://github.com/AKuemper"><img src="" alt="https://img.shields.io/github/followers/akuemper?style=social"></a>
 
 
