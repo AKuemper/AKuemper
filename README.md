@@ -11,7 +11,7 @@
 
 
 
-![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=akuemper&show_icons=true&theme=radical)
+![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=akuemper&show_icons=true&theme=dracula)
 
 
 <!--
