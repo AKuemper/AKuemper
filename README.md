@@ -1,6 +1,14 @@
 ### Hi there, I'm Austin 👋
 ---
 
+## About me
+- Just wrapping up a 6-month program at App Academy
+- Currently on the joob hunt
+- I enjoy cooking, playing piano, hiking, and concerts!
+
+## Connect with me:
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 <!--
 **AKuemper/AKuemper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
