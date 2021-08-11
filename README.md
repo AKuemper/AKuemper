@@ -7,7 +7,12 @@
 - I enjoy cooking, playing piano, hiking, and concerts!
 
 ## Connect with me:
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
+
+
+
+![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 <!--
 **AKuemper/AKuemper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
