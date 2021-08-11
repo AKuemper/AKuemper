@@ -1,7 +1,7 @@
 ### Hi there, I'm Austin 👋
 ---
 
-## About me
+## About me :adult:
 - Just wrapping up a 6-month program at App Academy
 - Currently on the joob hunt
 - I enjoy cooking, playing piano, hiking, and concerts!
