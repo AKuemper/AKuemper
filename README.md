@@ -33,7 +33,6 @@
 
 
 ![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=akuemper&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akuemper)](https://github.com/akuemper)
 
 
 ---
