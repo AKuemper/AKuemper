@@ -7,7 +7,7 @@
 - I enjoy cooking :hamburger:, playing piano :musical_keyboard:, hiking :hiking_boot:, and concerts:notes:!
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/austinkuemper/"><img alt="" src="ttps://img.shields.io/badge/LinkedIn-Austin Kuemper-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/austinkuemper/"><img alt="" src="https://img.shields.io/badge/LinkedIn-Austin Kuemper-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://angel.co/u/austin-kuemper"><img alt="" src="https://img.shields.io/badge/AngelList-Austin%20Kuemper-crimson"></a>
 <a href="https://github.com/AKuemper"><img src="https://img.shields.io/github/followers/akuemper?style=social" alt="https://img.shields.io/github/followers/akuemper?style=social"></a>
 
