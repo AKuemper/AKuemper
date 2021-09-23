@@ -2,6 +2,7 @@
 ---
 
 ## About me :adult:
+:desktop_computer: &nbsp;&nbsp; Lover of tech <br/>
 :hamburger: &nbsp;&nbsp; Mediation through cooking <br/>
 :musical_keyboard: &nbsp;&nbsp; Escape the everyday grind by playing some piano <br/>
 :notes: &nbsp;&nbsp; Let loose at concerts <br/>
