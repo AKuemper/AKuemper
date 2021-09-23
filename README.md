@@ -2,9 +2,10 @@
 ---
 
 ## About me :adult:
-- Just wrapping up a 6-month program at App Academy
 - Currently on the job hunt
 - I enjoy cooking :hamburger:, playing piano :musical_keyboard:, hiking :hiking_boot:, and concerts:notes:!
+- Geek out on talking music or audio gear! :guitar:
+- Lifelong gamer (currently WZ / CoD) :video_game:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/austinkuemper/"><img alt="" src="https://img.shields.io/badge/LinkedIn-Austin Kuemper-blue?style=flat-square&logo=linkedin"></a>
