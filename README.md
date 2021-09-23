@@ -3,9 +3,10 @@
 
 ## About me :adult:
 - Currently on the job hunt
-- I enjoy cooking :hamburger:, playing piano :musical_keyboard:, hiking :hiking_boot:, and concerts:notes:!
-- Geek out on talking music or audio gear! :guitar:
-- Lifelong gamer (currently WZ / CoD) :video_game:
+:hamburger: Mediation through cooking
+:musical_keyboard: Escape the everyday grind by playing some piano 
+:notes: Let loose at concerts
+:video_game: Lifelong pwner (currently WZ / CoD) 
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/austinkuemper/"><img alt="" src="https://img.shields.io/badge/LinkedIn-Austin Kuemper-blue?style=flat-square&logo=linkedin"></a>
