@@ -34,7 +34,7 @@
 ---
 
 ## Currently Learning:
-- !(MongoDB)(https://www.mongodb.com/)
+- (MongoDB)(https://www.mongodb.com/)
 - 
 
 
