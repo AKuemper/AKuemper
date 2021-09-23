@@ -35,8 +35,15 @@
 
 ## Currently Learning:
 - [MongoDB](https://www.mongodb.com/)
-- 
+- [GraphQL](https://graphql.org/)
+- [React Bootstrap](https://react-bootstrap.github.io/)
+- [Three.js](https://threejs.org/)
 
+
+## Currently Working On:
+- 'Mello', a Trello inspired to-do list application - MERN Stack, Drag and Drop API
+
+---
 
 ![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=akuemper&show_icons=true&theme=dracula)
 
