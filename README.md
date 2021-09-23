@@ -2,11 +2,10 @@
 ---
 
 ## About me :adult:
-- Currently on the job hunt
-:hamburger: Mediation through cooking
-:musical_keyboard: Escape the everyday grind by playing some piano 
-:notes: Let loose at concerts
-:video_game: Lifelong pwner (currently WZ / CoD) 
+:hamburger: Mediation through cooking <br/>
+:musical_keyboard: Escape the everyday grind by playing some piano <br/>
+:notes: Let loose at concerts <br/>
+:video_game: Lifelong pwner (currently WZ / CoD) <br/>
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/austinkuemper/"><img alt="" src="https://img.shields.io/badge/LinkedIn-Austin Kuemper-blue?style=flat-square&logo=linkedin"></a>
