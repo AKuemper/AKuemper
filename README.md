@@ -2,7 +2,7 @@
 ---
 
 ## About me :adult:
-:hamburger:&nbsp;&nbsp;Mediation through cooking <br/>
+:hamburger: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mediation through cooking <br/>
 :musical_keyboard:  Escape the everyday grind by playing some piano <br/>
 :notes:  Let loose at concerts <br/>
 :video_game:  Lifelong pwner (currently WZ / CoD) <br/>
