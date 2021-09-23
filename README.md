@@ -33,6 +33,10 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ---
 
+## Currently Learning:
+- ![MongoDB](https://www.mongodb.com/)
+- 
+
 
 ![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=akuemper&show_icons=true&theme=dracula)
 
