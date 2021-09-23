@@ -3,9 +3,9 @@
 
 ## About me :adult:
 :hamburger: &nbsp;&nbsp; Mediation through cooking <br/>
-:musical_keyboard:  Escape the everyday grind by playing some piano <br/>
-:notes:  Let loose at concerts <br/>
-:video_game:  Lifelong pwner (currently WZ / CoD) <br/>
+:musical_keyboard: &nbsp;&nbsp; Escape the everyday grind by playing some piano <br/>
+:notes: &nbsp;&nbsp; Let loose at concerts <br/>
+:video_game: &nbsp;&nbsp; Lifelong gamer (currently WZ / CoD) <br/>
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/austinkuemper/"><img alt="" src="https://img.shields.io/badge/LinkedIn-Austin Kuemper-blue?style=flat-square&logo=linkedin"></a>
