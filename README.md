@@ -3,7 +3,7 @@
 
 ## About me :adult:
 :desktop_computer: &nbsp;&nbsp; Lover of tech <br/>
-:hamburger: &nbsp;&nbsp; Mediation through cooking <br/>
+:hamburger: &nbsp;&nbsp; Meditation through cooking <br/>
 :musical_keyboard: &nbsp;&nbsp; Play the keys <br/>
 :notes: &nbsp;&nbsp; Let loose at festivals <br/>
 :video_game: &nbsp;&nbsp; Lifelong gamer <br/>
