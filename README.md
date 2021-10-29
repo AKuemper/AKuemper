@@ -34,9 +34,8 @@
 ---
 
 ## Currently Learning:
-- [MongoDB](https://www.mongodb.com/)
 - [GraphQL](https://graphql.org/)
-- [React Bootstrap](https://react-bootstrap.github.io/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Three.js](https://threejs.org/)
 
 
